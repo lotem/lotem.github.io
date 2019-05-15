@@ -1,0 +1,14 @@
+#+TITLE:       變數
+#+AUTHOR:      居戎氏
+#+EMAIL:
+#+DATE:        2007-06-05 21:50:15
+#+URI:         /blog/%y/%m/%d/bian-shuo
+#+KEYWORDS:
+#+TAGS:        日記
+#+LANGUAGE:    zh
+#+OPTIONS:     H:3 num:nil toc:nil \n:t ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION:
+
+孰料，我所呼喚的生命中的變數風雨般降臨。
+
+四月丁卯

@@ -1,0 +1,19 @@
+#+TITLE:       變天
+#+AUTHOR:      居戎氏
+#+EMAIL:
+#+DATE:        2007-06-12 21:04:59
+#+URI:         /blog/%y/%m/%d/bian-tian
+#+KEYWORDS:
+#+TAGS:        流水帳
+#+LANGUAGE:    zh
+#+OPTIONS:     H:3 num:nil toc:nil \n:t ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION:
+
+今天早上出門去上班時，感覺包裡最近都少了一樣東西：雨傘。
+不知道為甚麼今天會想起它來。
+傍晚天色昏暗，我乘車趕回村，雨點已經往下掉了。
+原來如此！
+
+另，今天與劉濤討論設計輸入法的一些細節，思路又明晰起來。
+
+四月廿七日

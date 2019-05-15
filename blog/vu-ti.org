@@ -1,0 +1,12 @@
+#+TITLE:       無題
+#+AUTHOR:      lotem
+#+EMAIL:       lotem@g-mac
+#+DATE:        2007-06-21 10:11:25
+#+URI:         /blog/%y/%m/%d/vu-ti
+#+KEYWORDS:
+#+TAGS:        流水帳
+#+LANGUAGE:    zh
+#+OPTIONS:     H:3 num:nil toc:nil \n:t ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION:
+
+上午沒有事做，於是我聽音樂。

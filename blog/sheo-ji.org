@@ -1,0 +1,13 @@
+#+TITLE:       設計
+#+AUTHOR:      lotem
+#+EMAIL:       lotem@g-mac
+#+DATE:        2007-06-19 22:46:39
+#+URI:         /blog/%y/%m/%d/sheo-ji
+#+KEYWORDS:
+#+TAGS:        項目
+#+LANGUAGE:    zh
+#+OPTIONS:     H:3 num:nil toc:nil \n:t ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION:
+
+我已開始了對中州韻輸入法軟件的詳細設計。
+參與項目的人員請在近期熟悉環境，準備實施。

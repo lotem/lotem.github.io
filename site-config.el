@@ -1,0 +1,7 @@
+(require 'org-page)
+(setq op/repository-directory (expand-file-name "~/code/writing/org-page-sst"))
+(setq op/site-domain "https://sst.rime.im/")
+(setq op/site-main-title "中州‧式恕堂")
+(setq op/site-sub-title "")
+(setq op/personal-avatar "")
+(setq op/personal-github-link "https://github.com/lotem")

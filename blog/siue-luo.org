@@ -1,0 +1,14 @@
+#+TITLE:       雪落 我在北平
+#+AUTHOR:      lotem
+#+EMAIL:       lotem@g-mac
+#+DATE:        2011-02-10 13:55:16
+#+URI:         /blog/%y/%m/%d/siue-luo
+#+KEYWORDS:
+#+TAGS:        日記
+#+LANGUAGE:    zh
+#+OPTIONS:     H:3 num:nil toc:nil \n:t ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION:
+
+正月初八 雪落 我在北平
+踏著雪地 走過打工的歲月
+漫天飛雪的浪漫季節 執著於甜菜的創作
